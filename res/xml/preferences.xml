@@ -1,0 +1,42 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Facts!||Settings">
+
+    <PreferenceScreen
+        android:summary="Please enter a fact number"
+        android:title="Enter a fact number"
+        android:key="dialog_preference">
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:title="Project code on github">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://github.com/visnkmr/Facts"
+            />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:title="Email Developer"
+        android:key="emaildev_preference">
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:title="Made by: SortedCode">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="http://sortedcode.blogspot.in"
+            />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:title="Facts!:Homepage">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="http://factsbysortedcode.blogspot.in" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:title="Help"
+        android:key="help_preference">
+    </PreferenceScreen>
+    <PreferenceScreen
+    android:title="Fix Speech"
+    android:key="fixspeech_preference">
+</PreferenceScreen>
+</PreferenceScreen>

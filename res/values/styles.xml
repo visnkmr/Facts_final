@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar.Fullscreen">
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">@android:color/black</item>
+    </style>
+
+    <style name="AppThemesettings" parent="android:Theme.Material">
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">@android:color/black</item>
+    </style>
+    <style name="AppThemeset" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- your app branding color for the app bar -->
+        <item name="colorPrimary">@android:color/black</item>
+            <!-- darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">@android:color/black</item>
+            <!-- theme UI controls like checkboxes and text fields -->
+        <item name="colorAccent">@android:color/background_light</item>
+        <item name="android:colorBackground">@color/abc_input_method_navigation_guard</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@color/button_material_light</item>
+        <item name="android:textColorSecondaryInverse">@android:color/white</item>
+        <item name="android:textColorPrimaryInverse">@android:color/white</item>
+        <item name="android:colorForeground">@color/background_material_light</item>
+
+    </style>
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">#ffffff</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <!-- Used for the background -->
+        <item name="android:background">#000000</item>
+    </style>
+</resources>
