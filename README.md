@@ -13,7 +13,6 @@ A material design inspired fact reading app.
 ##Download the [apk](https://github.com/visnkmr/Facts_final/raw/master/facts_0.7.apk) to try the app.
 #Screenshots
 <img src="https://github.com/visnkmr/Facts/blob/master/Screenshots/photo_2016-08-21_16-29-53.jpg" width="300"><br/><br/>
-<img src="https://github.com/visnkmr/Facts/blob/master/Screenshots/photo_2016-08-21_16-29-58.jpg" width="300"><br/><br/>
 <img src="https://github.com/visnkmr/Facts/blob/master/Screenshots/photo_2016-08-21_16-30-00.jpg" width="300"><br/><br/>
 <img src="https://github.com/visnkmr/Facts/blob/master/Screenshots/photo_2016-08-21_16-30-03.jpg" width="300">
 
